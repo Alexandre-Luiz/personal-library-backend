@@ -1,0 +1,124 @@
+2023-05-16T23:29:43.239Z [catalog-api] error POST  - notNull Violation: users.userName cannot be null
+2023-05-16T23:30:46.661Z [catalog-api] error POST  - notNull Violation: users.userName cannot be null
+2023-05-16T23:31:16.072Z [catalog-api] error POST  - notNull Violation: users.userName cannot be null
+2023-05-16T23:32:42.932Z [catalog-api] error POST  - notNull Violation: users.userName cannot be null
+2023-05-16T23:32:55.420Z [catalog-api] error POST  - notNull Violation: users.userName cannot be null
+2023-05-16T23:33:41.807Z [catalog-api] error POST  - password authentication failed for user "undefined"
+2023-05-16T23:34:14.234Z [catalog-api] error POST  - password authentication failed for user "undefined"
+2023-05-16T23:34:51.489Z [catalog-api] error POST  - password authentication failed for user "undefined"
+2023-05-16T23:35:12.714Z [catalog-api] error POST  - password authentication failed for user "undefined"
+2023-05-16T23:36:04.001Z [catalog-api] error POST  - password authentication failed for user "undefined"
+2023-05-16T23:36:23.435Z [catalog-api] error POST  - password authentication failed for user "undefined"
+2023-05-16T23:36:38.608Z [catalog-api] error POST  - password authentication failed for user "undefined"
+2023-05-16T23:39:31.569Z [catalog-api] error POST  - password authentication failed for user "undefined"
+2023-05-16T23:45:01.655Z [catalog-api] error POST  - password authentication failed for user "undefined"
+2023-05-16T23:45:58.604Z [catalog-api] error POST  - column "userId" of relation "users" does not exist
+2023-05-16T23:48:43.991Z [catalog-api] error POST  - column "userId" of relation "users" does not exist
+2023-05-17T04:20:46.947Z [catalog-api] error POST  - WHERE parameter "user_name" has invalid "undefined" value
+2023-05-17T04:22:54.962Z [catalog-api] error POST  - Validation error
+2023-06-15T22:01:12.729Z [catalog-api] error POST  - column users.userName does not exist
+2023-06-15T22:35:02.275Z [catalog-api] error POST  - relation "users" does not exist
+2023-06-21T04:35:46.562Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:36:45.371Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:36:55.281Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:38:02.799Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:38:47.545Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:38:50.349Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:38:50.650Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:39:57.562Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:39:58.082Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:40:12.474Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:40:14.063Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:40:27.095Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:40:27.731Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:40:29.654Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:45:13.197Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:49:46.833Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:49:59.129Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:50:21.639Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:53:45.818Z [catalog-api] error POST  - data and hash arguments required
+2023-06-21T04:58:55.067Z [catalog-api] error POST  - data and hash arguments required
+2023-06-28T06:37:20.636Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'userId')
+2023-06-28T06:41:28.399Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-06-28T06:44:17.336Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-06-28T07:18:23.801Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-06-28T08:23:52.356Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'userId')
+2023-06-29T07:57:04.288Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-06-30T00:13:50.260Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-06-30T03:54:58.937Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'filename')
+2023-06-30T03:59:07.474Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'filename')
+2023-06-30T03:59:36.755Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'filename')
+2023-06-30T04:10:34.137Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'filename')
+2023-06-30T04:13:15.290Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'filename')
+2023-06-30T04:15:51.322Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'filename')
+2023-06-30T04:20:33.260Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'filename')
+2023-06-30T04:22:24.942Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'filename')
+2023-06-30T04:22:37.692Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'filename')
+2023-06-30T04:28:45.898Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'filename')
+2023-06-30T04:34:46.403Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'filename')
+2023-06-30T04:37:03.070Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'filename')
+2023-06-30T04:37:22.417Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'filename')
+2023-06-30T04:54:07.927Z [catalog-api] error POST  - next is not defined
+2023-06-30T04:56:37.761Z [catalog-api] error POST  - next is not defined
+2023-06-30T05:00:35.769Z [catalog-api] error POST  - next is not defined
+2023-06-30T05:03:42.350Z [catalog-api] error POST  - notNull Violation: books.totalPages cannot be null,
+notNull Violation: books.pagesRead cannot be null
+2023-06-30T05:04:12.379Z [catalog-api] error POST  - notNull Violation: books.totalPages cannot be null,
+notNull Violation: books.pagesRead cannot be null
+2023-06-30T05:06:11.001Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-03T22:37:13.929Z [catalog-api] error DELETE  - Cannot read properties of undefined (reading 'userId')
+2023-07-03T22:37:37.902Z [catalog-api] error DELETE  - Cannot read properties of undefined (reading 'userId')
+2023-07-03T22:39:58.312Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-03T22:48:59.464Z [catalog-api] error DELETE  - Cannot read properties of undefined (reading 'userId')
+2023-07-03T22:49:29.960Z [catalog-api] error DELETE  - Cannot read properties of undefined (reading 'userId')
+2023-07-03T22:49:49.618Z [catalog-api] error DELETE  - Cannot read properties of undefined (reading 'userId')
+2023-07-03T22:50:49.224Z [catalog-api] error DELETE  - Cannot read properties of undefined (reading 'userId')
+2023-07-03T22:51:24.613Z [catalog-api] error DELETE  - Cannot read properties of undefined (reading 'userId')
+2023-07-03T22:52:37.286Z [catalog-api] error DELETE  - Cannot read properties of undefined (reading 'userId')
+2023-07-03T22:53:23.814Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-03T22:53:43.538Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-03T22:56:49.997Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'filename')
+2023-07-04T06:24:34.164Z [catalog-api] error DELETE  - The "path" argument must be of type string. Received undefined
+2023-07-04T06:24:42.648Z [catalog-api] error DELETE  - The "path" argument must be of type string. Received undefined
+2023-07-04T06:27:50.476Z [catalog-api] error DELETE  - The "path" argument must be of type string. Received undefined
+2023-07-04T06:32:17.503Z [catalog-api] error DELETE  - The "path" argument must be of type string. Received undefined
+2023-07-04T06:32:43.421Z [catalog-api] error DELETE  - The "path" argument must be of type string. Received undefined
+2023-07-04T06:34:02.893Z [catalog-api] error DELETE  - The "path" argument must be of type string. Received undefined
+2023-07-04T06:35:27.649Z [catalog-api] error DELETE  - The "path" argument must be of type string. Received undefined
+2023-07-04T06:37:07.233Z [catalog-api] error DELETE  - The "path" argument must be of type string. Received undefined
+2023-07-06T13:18:25.346Z [catalog-api] error POST  - Cannot read properties of undefined (reading 'filename')
+2023-07-06T23:41:56.519Z [catalog-api] error DELETE  - ENOENT: no such file or directory, unlink 'C:\Users\Alexandre\Desktop\MBA\Tcc - Catalog\client\public\bookCovers\2_1d224d87-2996-4305-86ad-b140cba98cb8.jpg'
+2023-07-06T23:42:00.431Z [catalog-api] error DELETE  - ENOENT: no such file or directory, unlink 'C:\Users\Alexandre\Desktop\MBA\Tcc - Catalog\client\public\bookCovers\2_1d224d87-2996-4305-86ad-b140cba98cb8.jpg'
+2023-07-06T23:42:17.235Z [catalog-api] error DELETE  - ENOENT: no such file or directory, unlink 'C:\Users\Alexandre\Desktop\MBA\Tcc - Catalog\client\public\bookCovers\2_1d224d87-2996-4305-86ad-b140cba98cb8.jpg'
+2023-07-07T05:19:03.379Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-07T05:19:24.754Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-09T21:37:16.621Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-09T22:04:44.190Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-09T22:05:35.886Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-09T22:05:50.471Z [catalog-api] error PUT  - book is not defined
+2023-07-09T22:42:45.366Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-09T22:43:51.634Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-09T22:45:58.888Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-09T23:25:01.021Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-10T19:26:39.382Z [catalog-api] error POST  - newUser is not defined
+2023-07-10T19:27:55.976Z [catalog-api] error POST  - newUser is not defined
+2023-07-10T19:28:03.648Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-10T19:28:03.654Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-10T19:28:03.656Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-10T19:28:03.657Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-10T19:28:18.027Z [catalog-api] error POST  - newUser is not defined
+2023-07-10T19:28:43.477Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-07-10T19:28:44.373Z [catalog-api] error POST  - newUser is not defined
+2023-07-10T19:28:51.462Z [catalog-api] error POST  - newUser is not defined
+2023-07-10T19:29:22.568Z [catalog-api] error POST  - newUser is not defined
+2023-07-10T19:30:17.826Z [catalog-api] error POST  - newUser is not defined
+2023-07-10T20:01:02.708Z [catalog-api] error POST  - newUser is not defined
+2023-07-10T20:01:34.094Z [catalog-api] error POST  - newUser is not defined
+2023-07-10T20:04:53.401Z [catalog-api] error POST  - newUser is not defined
+2023-07-10T20:06:42.378Z [catalog-api] error POST  - checkForSpecialCharacters is not a function
+2023-07-10T20:09:40.059Z [catalog-api] error POST  - checkForSpecialCharacters is not a function
+2023-08-14T19:28:39.004Z [catalog-api] error DELETE  - Cannot read properties of undefined (reading 'userId')
+2023-08-14T20:56:32.000Z [catalog-api] error PUT  - Unexpected token n in JSON at position 3
+2023-08-14T20:57:55.206Z [catalog-api] error PUT  - Unexpected token ' in JSON at position 11
+2023-08-14T21:02:55.044Z [catalog-api] error GET  - Cannot read properties of undefined (reading 'userId')
+2023-08-14T21:03:20.371Z [catalog-api] error PUT  - Cannot read properties of undefined (reading 'userId')
