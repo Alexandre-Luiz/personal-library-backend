@@ -25,9 +25,9 @@ Before running the application, ensure that you have the following software inst
 2. Navigate to the project directory
 3. Install the dependencies: npm install
 4. Create a PostgreSQL database and update the `.env` (rename .env_example) file with your database credentials:
-	- DB_USER=your_database_user
-        - DB_PASS=your_database_password
-5. Also, generate a random string for the `SESSION_SECRET` variable in the `.env` file:
+	* DB_USER=your_database_user
+	* DB_PASS=your_database_password
+6. Also, generate a random string for the `SESSION_SECRET` variable in the `.env` file:
 
 ## Usage
 
