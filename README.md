@@ -5,11 +5,12 @@ Should be run with the [frontend project](https://github.com/Alexandre-Luiz/pers
 
 ## Features
 
-- User authentication (login/logout)
+- User authentication (login/logout) and session
 - Add new books to the collection
 - Edit existing book details
 - Delete books from the collection
 - Mark books as favorites
+- Generate statistics from the collection (value, books read, pages, etc)
 - Filter books by various criteria (e.g., title, author, genre, etc.)
 
 ## Prerequisites
@@ -17,7 +18,7 @@ Should be run with the [frontend project](https://github.com/Alexandre-Luiz/pers
 Before running the application, ensure that you have the following software installed:
 
 - Node.js (v16)
-- PostgreSQL (or any other SQL database)
+- PostgreSQL
 
 ## Installation
 
