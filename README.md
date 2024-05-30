@@ -23,7 +23,7 @@ Before running the application, ensure that you have the following software inst
 
 1. Clone the repository
 2. Navigate to the project directory
-3. Install the dependencies: npm install
+3. Install the dependencies: `npm install`
 4. Create a PostgreSQL database and update the `.env` (rename .env_example) file with your database credentials:
 	* DB_USER=your_database_user
 	* DB_PASS=your_database_password
@@ -31,7 +31,7 @@ Before running the application, ensure that you have the following software inst
 
 ## Usage
 
-To start the development server, run: `npm run server`. This will start the server at `http://localhost:3000`.
+To start the development server, run: `npm run server`. This will start the server at `http://localhost:3001`.
 
 ## License
 
