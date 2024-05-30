@@ -1,7 +1,7 @@
 # Personal Library App
 
 This is a web application that allows users to manage their book collection. Users can log in, add, edit, delete, and favorite books, as well as filter their collection using various methods.
-Should be runned with the [frontend](https://github.com/Alexandre-Luiz/personal-library-frontend).
+Should be run with the [frontend project](https://github.com/Alexandre-Luiz/personal-library-frontend).
 
 ## Features
 
