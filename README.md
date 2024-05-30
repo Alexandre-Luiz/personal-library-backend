@@ -16,7 +16,7 @@ Should be runned with the [frontend](https://github.com/Alexandre-Luiz/personal-
 
 Before running the application, ensure that you have the following software installed:
 
-- Node.js (v16 or later)
+- Node.js (v16)
 - PostgreSQL (or any other SQL database)
 
 ## Installation
