@@ -50,7 +50,7 @@ Endpoints:
 
 3. User Signout
 
-  -  - URL: /user/signout
+  - URL: /user/signout
   - Method: POST
 
     Description: Logs out the current user.
